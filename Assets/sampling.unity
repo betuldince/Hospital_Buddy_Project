@@ -690,7 +690,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &835068252
 RectTransform:
   m_ObjectHideFlags: 0
@@ -742,7 +742,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Maceraya ho\u015Fgeldin! \nBirbirinden renkli karakterlerle tan\u0131\u015Fmak
+  m_Text: "Maceraya ho\u015Fgeldin!\nBirbirinden renkli karakterlerle tan\u0131\u015Fmak
     i\xE7in\n hemen \"BA\u015ELA\"ya t\u0131kla!"
 --- !u!222 &835068254
 CanvasRenderer:
