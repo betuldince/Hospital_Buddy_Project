@@ -1,0 +1,1205 @@
+fileFormatVersion: 2
+guid: da1e09b84184b0d46978b876e080110a
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kupur_rig_final_kupur_body_s
+    second: {fileID: 2100000, guid: ed0970a440444134b972eee2b4ee79d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kupur_rig_final_kupur_eyePupil_s
+    second: {fileID: 2100000, guid: 7d08a29d7d7ce654293e6909458b0f0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kupur_rig_final_kupur_eye_s
+    second: {fileID: 2100000, guid: b8122e107b5f5cb4d8721f5f0b9102b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kupur_rig_final_kupur_glasses_s
+    second: {fileID: 2100000, guid: d1e50f6de16cc9845bae4c30f32aa43a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kupur_rig_final_kupur_innerEar_s
+    second: {fileID: 2100000, guid: 0d5739e93054ca743a71823409fe503a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kupur_rig_final_kupur_nose_s
+    second: {fileID: 2100000, guid: ffe854d700a495d44ba260fdee740ced, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kupur_rig_final_kupur_tongue_s
+    second: {fileID: 2100000, guid: cc80961d99c6e6d4d8ca7de4e680812e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_p_brow_s
+    second: {fileID: 2100000, guid: 75226990d0ce98644ab070515c5c51b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_p_eyeHL_s
+    second: {fileID: 2100000, guid: 5e15593e38e59524185c80826eba6eba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_p_eyePupil_s
+    second: {fileID: 2100000, guid: d59303ca6152daa46b988f27d535380f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_p_eye_s
+    second: {fileID: 2100000, guid: d7838f774142b1a4c96a55e76901bcad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_p_hair_s
+    second: {fileID: 2100000, guid: 5f41fc3ab0a4cc340aab0cc04c13a70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_p_skin_s
+    second: {fileID: 2100000, guid: 40d389354eb98434c8d58fe8b5e16aa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_p_teeth_s
+    second: {fileID: 2100000, guid: fb7a0a6ff6f6d7243a4a46df093b7326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_p_tongue_s
+    second: {fileID: 2100000, guid: cd9a58e3a25bfc3468f7dee2542f573b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_portakal_hoodie01_s
+    second: {fileID: 2100000, guid: 02dcd1611b986c149856ebaac464acce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_portakal_hoodie02_s
+    second: {fileID: 2100000, guid: cceb993902d5a75408188fb0aa9aeba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_portakal_hoodie_button_s
+    second: {fileID: 2100000, guid: e995b93ec9ae1024cb91f8c42dbfcde0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_portakal_socks01_s
+    second: {fileID: 2100000, guid: 213ffe56e422bba4d9b6694e195b8274, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_portakal_socks03_s
+    second: {fileID: 2100000, guid: 7d1b8fa630db7fe4cbfdd20030ae62ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: portakal_rig_final_surfaceShader1
+    second: {fileID: 2100000, guid: 6744fef1a55ec254fb07c8b53f97b042, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: portakal_is_basinda_syf01_anim(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_rig_final:kupur_all_grp
+      parentName: portakal_is_basinda_syf01_anim(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_rig_final:kupur_geo_grp
+      parentName: kupur_rig_final:kupur_all_grp
+      position: {x: -0.000001001358, y: 0.1941597, z: -0.0070214462}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_body_geo_BlendShape
+      parentName: kupur_rig_final:kupur_geo_grp
+      position: {x: -0, y: 0.0000000027507487, z: -0.018003378}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_glasses_geo_BlendShape
+      parentName: kupur_rig_final:kupur_geo_grp
+      position: {x: -0.0000000047683715, y: 0.07700342, z: 0.24381927}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_frck_geo_BlendShape
+      parentName: kupur_rig_final:kupur_geo_grp
+      position: {x: 0.000001001358, y: 0.023720695, z: 0.2632045}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_tongue_geo_BlendShape
+      parentName: kupur_rig_final:kupur_geo_grp
+      position: {x: -0, y: 0.014550563, z: 0.21695276}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_l_eye_ball_geo_BlendShape
+      parentName: kupur_rig_final:kupur_geo_grp
+      position: {x: -0.051770333, y: 0.0677285, z: 0.2296851}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_l_eye_refl_geo_BlendShape
+      parentName: kupur_rig_final:kupur_geo_grp
+      position: {x: -0.057323456, y: 0.06178114, z: 0.25252178}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_r_eye_ball_geo_BlendShape
+      parentName: kupur_rig_final:kupur_geo_grp
+      position: {x: 0.0528392, y: 0.06804471, z: 0.2294818}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_r_eye_refl_geo_BlendShape
+      parentName: kupur_rig_final:kupur_geo_grp
+      position: {x: 0.04759785, y: 0.06273223, z: 0.2530963}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kupur_nosel_geo_BlendShape
+      parentName: kupur_rig_final:kupur_geo_grp
+      position: {x: -0.00000865519, y: 0.047727536, z: 0.25218794}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_all_grp
+      parentName: portakal_is_basinda_syf01_anim(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_MAIN_Offset_Ctrl_RestPoseGrp
+      parentName: portakal_rig_final:portakal_all_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_MAIN_Offset_Ctrl
+      parentName: portakal_rig_final:portakal_MAIN_Offset_Ctrl_RestPoseGrp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_MAIN_Ctrl_RestPoseGrp
+      parentName: portakal_rig_final:portakal_MAIN_Offset_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_MAIN_Ctrl
+      parentName: portakal_rig_final:portakal_MAIN_Ctrl_RestPoseGrp
+      position: {x: 1.1300007, y: -0.0043259375, z: -0.10086623}
+      rotation: {x: 0, y: -0.70411646, z: -0, w: 0.7100845}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_MAIN_Inner_Ctrl_RestPoseGrp
+      parentName: portakal_rig_final:portakal_MAIN_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_MAIN_Inner_Ctrl
+      parentName: portakal_rig_final:portakal_MAIN_Inner_Ctrl_RestPoseGrp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_neck_AuxGrp
+      parentName: portakal_rig_final:portakal_MAIN_Inner_Ctrl
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_neck_Aux_ScaleGrp
+      parentName: portakal_rig_final:portakal_neck_AuxGrp
+      position: {x: 1.1079412, y: 0.5242379, z: -0.10262874}
+      rotation: {x: 0.00093951816, y: 0.0092800455, z: -0.6480505, w: 0.76154023}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_neck_Aux_Module
+      parentName: portakal_rig_final:portakal_neck_Aux_ScaleGrp
+      position: {x: 7.105427e-17, y: -2.842171e-16, z: 0}
+      rotation: {x: -2.7213476e-17, y: 2.2117724e-17, z: -3.4694473e-17, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_neck_Aux_CtrlGrp2
+      parentName: portakal_rig_final:portakal_neck_Aux_Module
+      position: {x: -0, y: 1.4432899e-16, z: -2.220446e-18}
+      rotation: {x: -0.0016913569, y: 0.006887603, z: 0.08027917, w: 0.9967472}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_neck_Aux_CtrlGrp
+      parentName: portakal_rig_final:portakal_neck_Aux_CtrlGrp2
+      position: {x: -0.058457717, y: -1.11022296e-17, z: 2.5960441e-17}
+      rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_neck_Aux_Ctrl_RestPoseGrp
+      parentName: portakal_rig_final:portakal_neck_Aux_CtrlGrp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_neck_Aux_Ctrl
+      parentName: portakal_rig_final:portakal_neck_Aux_Ctrl_RestPoseGrp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_m_head_ctrl_off
+      parentName: portakal_rig_final:portakal_neck_Aux_Ctrl
+      position: {x: -2.935157e-17, y: 0.112062804, z: 0.017953241}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_m_head_ctrl
+      parentName: portakal_rig_final:portakal_m_head_ctrl_off
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.09712039, y: 0.0014482725, z: -0.014839976, w: 0.99516094}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_m_loHead_ctrl_off
+      parentName: portakal_rig_final:portakal_m_head_ctrl
+      position: {x: -8.586948e-18, y: 0.016963735, z: 0.021156799}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_m_loHead_ctrl
+      parentName: portakal_rig_final:pr_m_loHead_ctrl_off
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_m_mouthMts_ctrl_off
+      parentName: portakal_rig_final:pr_m_loHead_ctrl
+      position: {x: 0.0005353927, y: -0.03329867, z: 0.12872922}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 2, y: 2, z: 2}
+    - name: portakal_rig_final:pr_m_mouthMts_ctrl
+      parentName: portakal_rig_final:pr_m_mouthMts_ctrl_off
+      position: {x: -0, y: -7.105427e-17, z: -2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_SHJntGrp
+      parentName: portakal_rig_final:portakal_all_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_TrajectorySHJnt
+      parentName: portakal_rig_final:portakal_SHJntGrp
+      position: {x: -1.1217148, y: 0.021159649, z: 0.107019186}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_ROOTSHJnt
+      parentName: portakal_rig_final:portakal_TrajectorySHJnt
+      position: {x: 1.1217148, y: 0.33944502, z: -0.100940056}
+      rotation: {x: -0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_spine_01SHJnt
+      parentName: portakal_rig_final:portakal_ROOTSHJnt
+      position: {x: -0.066501066, y: 0.005010329, z: -0.00096476654}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_spine_02SHJnt
+      parentName: portakal_rig_final:portakal_spine_01SHJnt
+      position: {x: -0.06112665, y: -0.011693367, z: 0.0015340482}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: portakal_rig_final:portakal_spine_TopSHJnt
+      parentName: portakal_rig_final:portakal_spine_02SHJnt
+      position: {x: -0.062032636, y: -0.004103154, z: 0.00042474046}
+      rotation: {x: -0.000000029802322, y: 0.000000029802322, z: 0.000000029802322,
+        w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: portakal_rig_final:portakal_l_arm_ClavicleSHJnt
+      parentName: portakal_rig_final:portakal_spine_TopSHJnt
+      position: {x: -0.00087860815, y: 0.011489031, z: -0.058888562}
+      rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000004}
+    - name: portakal_rig_final:portakal_l_arm_ShoulderSHJnt
+      parentName: portakal_rig_final:portakal_l_arm_ClavicleSHJnt
+      position: {x: -0.061629355, y: 0.001519528, z: -0.01730828}
+      rotation: {x: 0.000000029802326, y: -0.00002077222, z: 0.000000029802326, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 0.9999998}
+    - name: portakal_rig_final:portakal_l_arm_ElbowSHJnt
+      parentName: portakal_rig_final:portakal_l_arm_ShoulderSHJnt
+      position: {x: -0.11375859, y: -1.1368684e-15, z: -7.162271e-14}
+      rotation: {x: -0.000000059603178, y: 0.000038966537, z: 0.000000014901234, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_arm_WristSHJnt
+      parentName: portakal_rig_final:portakal_l_arm_ElbowSHJnt
+      position: {x: -0.1292552, y: 7.105427e-16, z: 2.1723511e-13}
+      rotation: {x: 0.0000019258741, y: -0.000018049768, z: 0.10626162, w: 0.9943382}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: portakal_rig_final:portakal_l_hand_01_01SHJnt
+      parentName: portakal_rig_final:portakal_l_arm_WristSHJnt
+      position: {x: -0.010705421, y: -0.011687105, z: 0.019953173}
+      rotation: {x: 0.39775005, y: 0.41258723, z: -0.25038472, w: 0.78030396}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: portakal_rig_final:portakal_l_hand_01_02SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_01_01SHJnt
+      position: {x: -0.01884434, y: 2.842171e-16, z: 9.947598e-16}
+      rotation: {x: 0.000000059604645, y: -0, z: -0.000000044703484, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000006}
+    - name: portakal_rig_final:portakal_l_hand_01_03SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_01_02SHJnt
+      position: {x: -0.021186316, y: 1.4210854e-16, z: -7.105427e-16}
+      rotation: {x: -0.000000029802322, y: -2.220446e-15, z: -0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000004}
+    - name: portakal_rig_final:portakal_l_hand_01_04SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_01_03SHJnt
+      position: {x: -0.01884434, y: 7.105427e-17, z: -7.105427e-16}
+      rotation: {x: -0, y: -0, z: -6.617445e-23, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: portakal_rig_final:portakal_l_hand_02_01SHJnt
+      parentName: portakal_rig_final:portakal_l_arm_WristSHJnt
+      position: {x: -0.038027633, y: 0.00071895315, z: 0.024876876}
+      rotation: {x: 0.11939332, y: 0.06987015, z: -0.12000146, w: 0.98308855}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_hand_02_02SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_02_01SHJnt
+      position: {x: -0.015514861, y: 4.2632563e-16, z: -2.842171e-16}
+      rotation: {x: 0.000000014901159, y: 0.0000000074505797, z: -0.000000048428767,
+        w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: portakal_rig_final:portakal_l_hand_02_03SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_02_02SHJnt
+      position: {x: -0.011017469, y: 2.842171e-16, z: 2.842171e-16}
+      rotation: {x: 0.00000004470348, y: -0.000000018626448, z: -0.000000005587935,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: portakal_rig_final:portakal_l_hand_02_04SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_02_03SHJnt
+      position: {x: -0.020283312, y: 4.2632563e-16, z: 0}
+      rotation: {x: -0.000000029802319, y: -0.000000007450578, z: 0.000000039581206,
+        w: 1}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: portakal_rig_final:portakal_l_hand_03_01SHJnt
+      parentName: portakal_rig_final:portakal_l_arm_WristSHJnt
+      position: {x: -0.037678204, y: 0.01456784, z: 0.008197288}
+      rotation: {x: -0.056729432, y: 0.08974758, z: -0.10958045, w: 0.98829114}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_hand_03_02SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_03_01SHJnt
+      position: {x: -0.018844208, y: -1.1368684e-15, z: -5.684342e-16}
+      rotation: {x: -0.000000067055225, y: -0.00000005029142, z: -0.000000022526365,
+        w: 1}
+      scale: {x: 0.9999997, y: 1, z: 0.99999994}
+    - name: portakal_rig_final:portakal_l_hand_03_03SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_03_02SHJnt
+      position: {x: -0.016725915, y: -6.3948843e-16, z: 5.684342e-16}
+      rotation: {x: -0.000000003725298, y: 0.00000007776544, z: -0.0000000266009,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_hand_03_04SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_03_03SHJnt
+      position: {x: -0.012172459, y: 6.3948843e-16, z: 0}
+      rotation: {x: 0.000000022351742, y: -0.000000033993278, z: -0.0000000012805685,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_hand_04_01SHJnt
+      parentName: portakal_rig_final:portakal_l_arm_WristSHJnt
+      position: {x: -0.03874495, y: 0.011786862, z: -0.008897083}
+      rotation: {x: -0.19065669, y: 0.09413187, z: -0.103130706, w: 0.9716755}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: portakal_rig_final:portakal_l_hand_04_02SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_04_01SHJnt
+      position: {x: -0.015833994, y: -1.4210854e-16, z: -4.2632563e-16}
+      rotation: {x: -0.000000014901163, y: -0.0000000074505815, z: 0.000000005587936,
+        w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000001}
+    - name: portakal_rig_final:portakal_l_hand_04_03SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_04_02SHJnt
+      position: {x: -0.014112411, y: -4.2632563e-16, z: -4.2632563e-16}
+      rotation: {x: -0.00000008940697, y: 0.000000052154064, z: 0.000000005587937,
+        w: 1}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: portakal_rig_final:portakal_l_hand_04_04SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_04_03SHJnt
+      position: {x: -0.01884434, y: 7.105427e-17, z: 0}
+      rotation: {x: 0.00000017881393, y: 0.000000037252892, z: -0.00000003632157,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: portakal_rig_final:portakal_l_hand_05_01SHJnt
+      parentName: portakal_rig_final:portakal_l_arm_WristSHJnt
+      position: {x: -0.027950374, y: -0.00040188117, z: -0.027579896}
+      rotation: {x: -0.32974812, y: 0.10491032, z: -0.086999126, w: 0.93417937}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: portakal_rig_final:portakal_l_hand_05_02SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_05_01SHJnt
+      position: {x: -0.01693365, y: 0.00010569399, z: 1.4210854e-16}
+      rotation: {x: -0.000000029802326, y: -0.000000044703487, z: 0.027626881, w: 0.99961835}
+      scale: {x: 1, y: 1.0000002, z: 0.9999997}
+    - name: portakal_rig_final:portakal_l_hand_05_03SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_05_02SHJnt
+      position: {x: -0.010909824, y: 1.7763568e-17, z: -4.2632563e-16}
+      rotation: {x: 0.000000029996787, y: 0.0000000066243935, z: 0.000000039115548,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_hand_05_04SHJnt
+      parentName: portakal_rig_final:portakal_l_hand_05_03SHJnt
+      position: {x: -0.017423235, y: -1.4210854e-16, z: -1.4210854e-16}
+      rotation: {x: -0.000000029790947, y: 8.233463e-10, z: -2.2340822e-16, w: 1}
+      scale: {x: 0.99999946, y: 1.0000007, z: 1}
+    - name: portakal_rig_final:portakal_l_arm_clothSHJnt
+      parentName: portakal_rig_final:portakal_l_arm_ShoulderSHJnt
+      position: {x: -0.0028180543, y: 0.033380743, z: 0.061001576}
+      rotation: {x: -0.000000029802326, y: 0.00002077222, z: -0.000000029802326, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_arm_ClavicleSHJnt
+      parentName: portakal_rig_final:portakal_spine_TopSHJnt
+      position: {x: -0.00087860815, y: 0.011489031, z: 0.058888562}
+      rotation: {x: 0.5, y: 0.5, z: 0.5, w: -0.5}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000002}
+    - name: portakal_rig_final:portakal_r_arm_ShoulderSHJnt
+      parentName: portakal_rig_final:portakal_r_arm_ClavicleSHJnt
+      position: {x: 0.072309606, y: -0.009217198, z: 0.013846932}
+      rotation: {x: -0.000000029802322, y: -0.000020712614, z: -0.000000029802322,
+        w: 1}
+      scale: {x: 0.99999976, y: 0.9999997, z: 0.99999994}
+    - name: portakal_rig_final:portakal_r_arm_ElbowSHJnt
+      parentName: portakal_rig_final:portakal_r_arm_ShoulderSHJnt
+      position: {x: 0.11375859, y: 4.2632563e-16, z: -7.1480595e-14}
+      rotation: {x: 0.000000059603792, y: 0.000038936734, z: 0.000000014901087, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 0.9999998}
+    - name: portakal_rig_final:portakal_r_arm_WristSHJnt
+      parentName: portakal_rig_final:portakal_r_arm_ElbowSHJnt
+      position: {x: 0.1292552, y: -4.2632563e-16, z: 2.1728397e-13}
+      rotation: {x: 0.000001908163, y: -0.00001805817, z: 0.1062606, w: 0.99433833}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999964}
+    - name: portakal_rig_final:portakal_r_hand_01_01SHJnt
+      parentName: portakal_rig_final:portakal_r_arm_WristSHJnt
+      position: {x: 0.010705421, y: 0.011687105, z: -0.019953173}
+      rotation: {x: 0.39755717, y: 0.41249752, z: -0.25071046, w: 0.78034496}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000006}
+    - name: portakal_rig_final:portakal_r_hand_01_02SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_01_01SHJnt
+      position: {x: 0.01884434, y: 2.842171e-16, z: 1.4210854e-16}
+      rotation: {x: -0.00000008940696, y: -0, z: -0.00000004470348, w: 1}
+      scale: {x: 1.0000004, y: 1.0000017, z: 1.0000005}
+    - name: portakal_rig_final:portakal_r_hand_01_03SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_01_02SHJnt
+      position: {x: 0.021186316, y: -3.5527135e-16, z: 0}
+      rotation: {x: -0.00000008940696, y: -0.000000029802317, z: -0.000000059604638,
+        w: 1}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000006}
+    - name: portakal_rig_final:portakal_r_hand_01_04SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_01_03SHJnt
+      position: {x: 0.01884434, y: 8.8817837e-17, z: 4.2632563e-16}
+      rotation: {x: -0, y: -0, z: 8.881787e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.0000004}
+    - name: portakal_rig_final:portakal_r_hand_02_01SHJnt
+      parentName: portakal_rig_final:portakal_r_arm_WristSHJnt
+      position: {x: 0.038027633, y: -0.00071895315, z: -0.024876876}
+      rotation: {x: 0.11939375, y: 0.06987035, z: -0.11999839, w: 0.98308885}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.9999998}
+    - name: portakal_rig_final:portakal_r_hand_02_02SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_02_01SHJnt
+      position: {x: 0.015514861, y: -2.913225e-14, z: -4.391154e-14}
+      rotation: {x: -0, y: -0, z: -0.000000006053597, w: 1}
+      scale: {x: 1, y: 1.0000008, z: 1.0000011}
+    - name: portakal_rig_final:portakal_r_hand_02_03SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_02_02SHJnt
+      position: {x: 0.011017469, y: -2.0889955e-14, z: -1.1340262e-13}
+      rotation: {x: -0.00000004470348, y: -0.00000003352761, z: -0.000000026077027,
+        w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+    - name: portakal_rig_final:portakal_r_hand_02_04SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_02_03SHJnt
+      position: {x: 0.020283312, y: -3.794298e-14, z: -2.2083668e-13}
+      rotation: {x: 0.000000074505806, y: -0.000000037252907, z: -0.00000001862646,
+        w: 1}
+      scale: {x: 1, y: 1.0000007, z: 1.0000007}
+    - name: portakal_rig_final:portakal_r_hand_03_01SHJnt
+      parentName: portakal_rig_final:portakal_r_arm_WristSHJnt
+      position: {x: 0.037678204, y: -0.01456784, z: -0.008197288}
+      rotation: {x: -0.05672932, y: 0.08974729, z: -0.10957848, w: 0.9882914}
+      scale: {x: 1.0000005, y: 1.0000014, z: 1.0000006}
+    - name: portakal_rig_final:portakal_r_hand_03_02SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_03_01SHJnt
+      position: {x: 0.018844208, y: -1.5774049e-14, z: -1.0956569e-13}
+      rotation: {x: -0.0000000074505797, y: -0.000000058673315, z: -0.0000000051513775,
+        w: 1}
+      scale: {x: 0.9999998, y: 1.0000006, z: 1.0000005}
+    - name: portakal_rig_final:portakal_r_hand_03_03SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_03_02SHJnt
+      position: {x: 0.016725915, y: -1.4281909e-14, z: -7.5317526e-14}
+      rotation: {x: 0.000000055879354, y: -0.000000007916249, z: -0.000000029802326,
+        w: 1}
+      scale: {x: 1, y: 1.0000007, z: 1.0000005}
+    - name: portakal_rig_final:portakal_r_hand_03_04SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_03_03SHJnt
+      position: {x: 0.012172459, y: -1.0302869e-14, z: 1.0231815e-14}
+      rotation: {x: -0.00000005215406, y: 0.000000006519267, z: 0.000000059604645,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000012, z: 1.0000011}
+    - name: portakal_rig_final:portakal_r_hand_04_01SHJnt
+      parentName: portakal_rig_final:portakal_r_arm_WristSHJnt
+      position: {x: 0.03874495, y: -0.011786862, z: 0.008897083}
+      rotation: {x: -0.19065656, y: 0.094130784, z: -0.103128314, w: 0.9716759}
+      scale: {x: 1.0000001, y: 1.0000011, z: 1}
+    - name: portakal_rig_final:portakal_r_hand_04_02SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_04_01SHJnt
+      position: {x: 0.015833994, y: -2.842171e-16, z: 2.842171e-16}
+      rotation: {x: -0, y: 0.000000052154064, z: -0.0000000037252903, w: 1}
+      scale: {x: 1.0000005, y: 0.9999998, z: 1.0000002}
+    - name: portakal_rig_final:portakal_r_hand_04_03SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_04_02SHJnt
+      position: {x: 0.014112411, y: 2.842171e-16, z: -1.4210854e-16}
+      rotation: {x: -0.000000074505806, y: -0.000000059604645, z: 0.00000001583248,
+        w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000007}
+    - name: portakal_rig_final:portakal_r_hand_04_04SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_04_03SHJnt
+      position: {x: 0.01884434, y: -7.105427e-17, z: 1.4210854e-16}
+      rotation: {x: 0.000000014901165, y: 0.000000007450577, z: 0.00000004749745,
+        w: 1}
+      scale: {x: 1, y: 1.0000018, z: 1.0000006}
+    - name: portakal_rig_final:portakal_r_hand_05_01SHJnt
+      parentName: portakal_rig_final:portakal_r_arm_WristSHJnt
+      position: {x: 0.027950374, y: 0.00040188117, z: 0.027579896}
+      rotation: {x: -0.32974795, y: 0.10491085, z: -0.08699899, w: 0.9341795}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000004}
+    - name: portakal_rig_final:portakal_r_hand_05_02SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_05_01SHJnt
+      position: {x: 0.01693365, y: -0.00010569399, z: -5.385914e-14}
+      rotation: {x: -0, y: 0.000000029802326, z: 0.027626937, w: 0.99961835}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000008}
+    - name: portakal_rig_final:portakal_r_hand_05_03SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_05_02SHJnt
+      position: {x: 0.010909824, y: 3.7019277e-14, z: -8.2422955e-15}
+      rotation: {x: -0.00000006040524, y: -0.000000028144257, z: 0.000000033527613,
+        w: 1}
+      scale: {x: 0.9999998, y: 1.0000014, z: 1.0000011}
+    - name: portakal_rig_final:portakal_r_hand_05_04SHJnt
+      parentName: portakal_rig_final:portakal_r_hand_05_03SHJnt
+      position: {x: 0.017423235, y: 5.9117153e-14, z: -2.7824853e-13}
+      rotation: {x: -0.00000005999355, y: -0.000000013248771, z: -0.000000046566125,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000013, z: 1.0000015}
+    - name: portakal_rig_final:portakal_r_arm_clothSHJnt
+      parentName: portakal_rig_final:portakal_r_arm_ShoulderSHJnt
+      position: {x: 0.014998283, y: -0.03229233, z: -0.054423053}
+      rotation: {x: 0.000000029802322, y: 0.000020712614, z: 0.000000029802322, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+    - name: portakal_rig_final:portakal_neck_AuxSHJnt
+      parentName: portakal_rig_final:portakal_spine_TopSHJnt
+      position: {x: -0.058457717, y: -1.4210854e-16, z: 8.8817837e-17}
+      rotation: {x: 0.5, y: -0.5, z: 0.5, w: 0.5}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: portakal_rig_final:portakal_head_AuxSHJnt
+      parentName: portakal_rig_final:portakal_neck_AuxSHJnt
+      position: {x: -3.5527136e-17, y: 0.112062804, z: 0.017953241}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: portakal_rig_final:pr_m_upHead_jnt
+      parentName: portakal_rig_final:portakal_head_AuxSHJnt
+      position: {x: -3.5527136e-17, y: 0.030291071, z: 0.021156799}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: portakal_rig_final:pr_l_upCheek_jnt_loc
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: -0.112403184, y: -0.013244142, z: 0.0959645}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_l_upCheek_jnt
+      parentName: portakal_rig_final:pr_l_upCheek_jnt_loc
+      position: {x: -0, y: 0, z: 1.7763568e-17}
+      rotation: {x: 0.000000006172262, y: 0.000000034797925, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: portakal_rig_final:pr_l_browMid_jnt_loc
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: -0.11954, y: 0.09748555, z: 0.086604096}
+      rotation: {x: 0, y: 0, z: 0.13052619, w: 0.9914449}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_l_browMid_jnt
+      parentName: portakal_rig_final:pr_l_browMid_jnt_loc
+      position: {x: 0.00027796955, y: -0.0015315581, z: 0.00044016365}
+      rotation: {x: -0.000000012828687, y: 0.000000016718671, z: 0.0000000745058,
+        w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: portakal_rig_final:pr_r_browMid_jnt_loc
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: 0.119538, y: 0.09748855, z: 0.08660211}
+      rotation: {x: 0.9914449, y: -0.13052619, z: -7.992424e-18, w: 6.0708486e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_r_browMid_jnt
+      parentName: portakal_rig_final:pr_r_browMid_jnt_loc
+      position: {x: -0.00005137671, y: 0.00062924786, z: -0.000077065066}
+      rotation: {x: -0.000000025657373, y: 0.000000033437342, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1.0000001}
+    - name: portakal_rig_final:pr_l_upEyeLid_jnt_off
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: -0.09555967, y: 0.03202319, z: 0.06925012}
+      rotation: {x: -0.029050184, y: -0.00744849, z: -0.00021647736, w: 0.9995502}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_l_upEyeLid_jnt
+      parentName: portakal_rig_final:pr_l_upEyeLid_jnt_off
+      position: {x: -7.888609e-33, y: 0.003, z: 0.005}
+      rotation: {x: -0.573547, y: 0.0058122245, z: -0.008300735, w: 0.81911004}
+      scale: {x: 1, y: 0.99999994, z: 1.0000008}
+    - name: portakal_rig_final:pr_l_upEyeLid_je
+      parentName: portakal_rig_final:pr_l_upEyeLid_jnt
+      position: {x: 1.54321e-16, y: 9.766493e-17, z: 0.03617809}
+      rotation: {x: 0.029050084, y: 0.007448502, z: 0.0002164799, w: 0.9995502}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: portakal_rig_final:pr_l_loEyeLid_jnt_off
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: -0.09555967, y: 0.03202319, z: 0.06925012}
+      rotation: {x: -0.029050184, y: -0.00744849, z: -0.00021647736, w: 0.9995502}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_l_loEyeLid_jnt
+      parentName: portakal_rig_final:pr_l_loEyeLid_jnt_off
+      position: {x: 3.6367164e-17, y: 0.00095271063, z: 0.00063514046}
+      rotation: {x: 0.49998355, y: -0.004054839, z: -0.0070231603, w: 0.8659969}
+      scale: {x: 1, y: 0.99999994, z: 1.0000008}
+    - name: portakal_rig_final:pr_l_loEyeLid_je
+      parentName: portakal_rig_final:pr_l_loEyeLid_jnt
+      position: {x: 1.54321e-16, y: 9.766493e-17, z: 0.03617809}
+      rotation: {x: 0.029050114, y: 0.007448477, z: 0.00021649491, w: 0.9995502}
+      scale: {x: 1, y: 1, z: 0.9999997}
+    - name: portakal_rig_final:pr_r_upEyeLid_jnt_off
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: 0.0955597, y: 0.03202355, z: 0.0692501}
+      rotation: {x: 0.9995502, y: 0.00021647735, z: -0.00744849, w: 0.029050183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_r_upEyeLid_jnt
+      parentName: portakal_rig_final:pr_r_upEyeLid_jnt_off
+      position: {x: -0, y: -0.00009409907, z: -0.0001568318}
+      rotation: {x: -0.57354695, y: -0.005812226, z: 0.008300757, w: 0.8191101}
+      scale: {x: 0.9999999, y: 1.0000007, z: 1.0000018}
+    - name: portakal_rig_final:pr_r_upEyeLid_je
+      parentName: portakal_rig_final:pr_r_upEyeLid_jnt
+      position: {x: -0.000000046566704, y: 0.000000130366, z: -0.036178067}
+      rotation: {x: 0.029050045, y: 0.007448488, z: 0.00021646055, w: 0.9995503}
+      scale: {x: 1, y: 1.0000007, z: 1.0000006}
+    - name: portakal_rig_final:pr_r_loEyeLid_jnt_off
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: 0.0955597, y: 0.03202355, z: 0.0692501}
+      rotation: {x: 0.9995502, y: 0.00021647735, z: -0.00744849, w: 0.029050183}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_r_loEyeLid_jnt
+      parentName: portakal_rig_final:pr_r_loEyeLid_jnt_off
+      position: {x: -1.7763568e-17, y: -0.0008817914, z: -0.00058786094}
+      rotation: {x: 0.49998358, y: -0.0040547857, z: -0.007023181, w: 0.8659969}
+      scale: {x: 0.99999994, y: 1.0000007, z: 1.0000015}
+    - name: portakal_rig_final:pr_r_roEyeLid_je
+      parentName: portakal_rig_final:pr_r_loEyeLid_jnt
+      position: {x: -0.000000046566704, y: 0.000000130366, z: -0.036178067}
+      rotation: {x: -0.029050082, y: -0.007448457, z: -0.00021649012, w: -0.9995502}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_r_upCheek_jnt_loc
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: 0.112403, y: -0.013244447, z: 0.0938851}
+      rotation: {x: -0.7071068, y: 0.7071068, z: 2.0030707e-16, w: -2.0030707e-16}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_r_upCheek_jnt
+      parentName: portakal_rig_final:pr_r_upCheek_jnt_loc
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000006172262, y: 0.000000040257735, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.000001}
+    - name: portakal_rig_final:pr_l_ear_jnt
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: -0.20471682, y: -0.0038971088, z: 0.0010085361}
+      rotation: {x: 0.15304585, y: 0.15304594, z: 0.6903455, w: 0.6903455}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: portakal_rig_final:pr_r_ear_jnt
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: 0.204717, y: -0.0038974478, z: 0.0010085034}
+      rotation: {x: 0.6903455, y: -0.6903455, z: 0.15304594, w: -0.15304585}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000004}
+    - name: portakal_rig_final:portakal_l_eyeSHJnt
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: -0.096045636, y: 0.034118593, z: 0.06751643}
+      rotation: {x: -0.006932526, y: 0.013185226, z: 0.74009097, w: 0.6723418}
+      scale: {x: 1.0000006, y: 1.0000005, z: 0.9999997}
+    - name: portakal_rig_final:portakal_r_eyeSHJnt
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: 0.095551424, y: 0.034889642, z: 0.0674869}
+      rotation: {x: -0.49181032, y: 0.8706963, z: -0.002699621, w: -0.0018065125}
+      scale: {x: 1.0000004, y: 1, z: 0.9999996}
+    - name: portakal_rig_final:portakal_eyeGlasses_SHJnt
+      parentName: portakal_rig_final:pr_m_upHead_jnt
+      position: {x: 0.007856173, y: 0.1442011, z: 0.08511074}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: portakal_rig_final:pr_m_loHead_jnt
+      parentName: portakal_rig_final:portakal_head_AuxSHJnt
+      position: {x: -0, y: 0.016963735, z: 0.021156799}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: portakal_rig_final:pr_l_loCheek_jnt_loc
+      parentName: portakal_rig_final:pr_m_loHead_jnt
+      position: {x: -0.14233111, y: -0.05005612, z: 0.06255178}
+      rotation: {x: 0, y: 0.42261827, z: -0, w: 0.9063078}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_l_loCheek_jnt
+      parentName: portakal_rig_final:pr_l_loCheek_jnt_loc
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000003645633, y: -0.000000029802322, z: 0.000000007662553,
+        w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: portakal_rig_final:pr_r_loCheek_jnt_loc
+      parentName: portakal_rig_final:pr_m_loHead_jnt
+      position: {x: 0.14233099, y: -0.050056115, z: 0.0625521}
+      rotation: {x: 0.9063078, y: 2.5877905e-17, z: 0.42261827, w: -5.5495345e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:pr_r_loCheek_jnt
+      parentName: portakal_rig_final:pr_r_loCheek_jnt_loc
+      position: {x: -0, y: -1.4694152e-16, z: 0}
+      rotation: {x: 0.00000003960508, y: 0.000000059604638, z: -0.00000001441507,
+        w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.000001}
+    - name: portakal_rig_final:pr_r_upLip_outter_jnt
+      parentName: portakal_rig_final:pr_m_loHead_jnt
+      position: {x: 0.03903, y: -0.030097112, z: 0.020597808}
+      rotation: {x: 0.7071068, y: 0.000000029802322, z: 0.7071068, w: -0.000000029802322}
+      scale: {x: 1.0000012, y: 1.0000017, z: 1.0000007}
+    - name: portakal_rig_final:joint2 5
+      parentName: portakal_rig_final:pr_r_upLip_outter_jnt
+      position: {x: 0.09031429, y: 4.0443996e-33, z: -2.702256e-17}
+      rotation: {x: -0.000000029802322, y: -0.7071068, z: 0.000000029802322, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1.0000011, z: 1.0000012}
+    - name: portakal_rig_final:pr_m_upLip_jnt
+      parentName: portakal_rig_final:pr_m_loHead_jnt
+      position: {x: 1.7671073e-17, y: -0.027704805, z: 0.029677024}
+      rotation: {x: -0.000000029802322, y: 0.7071068, z: 0.000000021073426, w: 0.7071068}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000007}
+    - name: portakal_rig_final:joint2 4
+      parentName: portakal_rig_final:pr_m_upLip_jnt
+      position: {x: -0.09031457, y: 0, z: 3.337654e-17}
+      rotation: {x: 0.000000029802322, y: -0.7071068, z: -0.000000021073426, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: portakal_rig_final:pr_l_upLip_outter_jnt
+      parentName: portakal_rig_final:pr_m_loHead_jnt
+      position: {x: -0.039029986, y: -0.030096987, z: 0.020597758}
+      rotation: {x: -0.000000029802322, y: 0.7071068, z: 0.000000021073426, w: 0.7071068}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1.0000007}
+    - name: portakal_rig_final:joint2 3
+      parentName: portakal_rig_final:pr_l_upLip_outter_jnt
+      position: {x: -0.09031457, y: 0, z: 3.337654e-17}
+      rotation: {x: 0.000000029802322, y: -0.7071068, z: -0.000000021073426, w: 0.7071068}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: portakal_rig_final:pr_m_teeht_jnt
+      parentName: portakal_rig_final:pr_m_loHead_jnt
+      position: {x: 0.00053541054, y: -0.023470312, z: 0.10339531}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: portakal_rig_final:pr_m_nose_jnt
+      parentName: portakal_rig_final:pr_m_loHead_jnt
+      position: {x: -7.0431265e-11, y: 0.020834722, z: 0.108971946}
+      rotation: {x: -0.1736483, y: -0.000000029802322, z: -0.000000029802322, w: 0.9848078}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: portakal_rig_final:portakal_m_tongue01SHJnt
+      parentName: portakal_rig_final:pr_m_loHead_jnt
+      position: {x: 3.5527136e-17, y: -0.045714434, z: 0.008405683}
+      rotation: {x: -0.20455709, y: -0.000000029802322, z: -0.000000029802322, w: 0.97885466}
+      scale: {x: 1, y: 0.99999994, z: 1.0000004}
+    - name: portakal_rig_final:portakal_m_tongue02SHJnt
+      parentName: portakal_rig_final:portakal_m_tongue01SHJnt
+      position: {x: -0, y: -1.0658141e-16, z: 0.021048393}
+      rotation: {x: 0.15169537, y: 0.0000000050830042, z: -0.000000003908654, w: 0.9884273}
+      scale: {x: 1, y: 1, z: 0.9999997}
+    - name: portakal_rig_final:portakal_m_tongue03SHJnt
+      parentName: portakal_rig_final:portakal_m_tongue02SHJnt
+      position: {x: -1.7763568e-17, y: 2.1316282e-16, z: 0.019038415}
+      rotation: {x: 0.11484113, y: 0.00000001589408, z: 0.00000004199792, w: 0.99338394}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: portakal_rig_final:portakal_m_tongue04SHJnt
+      parentName: portakal_rig_final:portakal_m_tongue03SHJnt
+      position: {x: -1.7763568e-17, y: -1.4210854e-16, z: 0.01928126}
+      rotation: {x: 0.14298487, y: -0.000000002400731, z: -0.0000000018337438, w: 0.9897249}
+      scale: {x: 1, y: 0.9999998, z: 1.0000002}
+    - name: portakal_rig_final:portakal_m_tongue05SHJnt
+      parentName: portakal_rig_final:portakal_m_tongue04SHJnt
+      position: {x: -9.248686e-18, y: -2.8462104e-17, z: 0.016363855}
+      rotation: {x: -0.20341419, y: 0.000000009404863, z: 0.000000031898814, w: 0.97909284}
+      scale: {x: 1, y: 1.0000002, z: 0.99999934}
+    - name: portakal_rig_final:pr_m_jaw_jnt
+      parentName: portakal_rig_final:portakal_head_AuxSHJnt
+      position: {x: -0, y: 0.005513981, z: 0.021156799}
+      rotation: {x: 0.21528387, y: -0.000000014901161, z: 0.000000014901161, w: 0.97655153}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: portakal_rig_final:pr_up_head_je
+      parentName: portakal_rig_final:pr_m_jaw_jnt
+      position: {x: 1.1044053e-31, y: 1.4283106e-17, z: 0.12076719}
+      rotation: {x: -0.21528387, y: 0.000000014901161, z: -0.000000014901161, w: 0.97655153}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: portakal_rig_final:pr_l_loLip_outter_jnt
+      parentName: portakal_rig_final:pr_m_jaw_jnt
+      position: {x: -0.039029986, y: -0.016665662, z: 0.030425465}
+      rotation: {x: -0.15222871, y: 0.69052625, z: -0.15222868, w: 0.69052625}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000006}
+    - name: portakal_rig_final:joint2
+      parentName: portakal_rig_final:pr_l_loLip_outter_jnt
+      position: {x: -0.09031457, y: 0, z: 3.337654e-17}
+      rotation: {x: -0.000000029802319, y: -0.7071068, z: -0.00000012234797, w: 0.7071068}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: portakal_rig_final:pr_r_roLip_outter_jnt
+      parentName: portakal_rig_final:pr_m_jaw_jnt
+      position: {x: 0.03903, y: -0.016666062, z: 0.030425703}
+      rotation: {x: 0.69052625, y: 0.15222871, z: 0.69052625, w: 0.15222868}
+      scale: {x: 1.0000001, y: 1.0000013, z: 1.0000006}
+    - name: portakal_rig_final:joint2 2
+      parentName: portakal_rig_final:pr_r_roLip_outter_jnt
+      position: {x: 0.09031429, y: 4.0443996e-33, z: -2.702256e-17}
+      rotation: {x: -0.00000008940696, y: -0.7071068, z: -0.000000026580667, w: 0.70710677}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000001}
+    - name: portakal_rig_final:pr_m_loLip_jnt
+      parentName: portakal_rig_final:pr_m_jaw_jnt
+      position: {x: -9.8204404e-18, y: -0.011645419, z: 0.03810578}
+      rotation: {x: -0.15222871, y: 0.69052625, z: -0.15222868, w: 0.69052625}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000006}
+    - name: portakal_rig_final:joint2 1
+      parentName: portakal_rig_final:pr_m_loLip_jnt
+      position: {x: -0.09031457, y: 0, z: 3.337654e-17}
+      rotation: {x: -0.000000029802319, y: -0.7071068, z: -0.00000012234797, w: 0.7071068}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: portakal_rig_final:portakal_hat_TopSHJnt
+      parentName: portakal_rig_final:portakal_head_AuxSHJnt
+      position: {x: 0.1095386, y: 0.27519122, z: -0.058454353}
+      rotation: {x: -0, y: -0, z: 0.8733475, w: -0.48709774}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_leg_HipSHJnt
+      parentName: portakal_rig_final:portakal_ROOTSHJnt
+      position: {x: 0.034787774, y: 0.00607913, z: -0.0741967}
+      rotation: {x: -0.00000166893, y: -0.7071068, z: 0.7071068, w: 0.0000016593863}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1.0000001}
+    - name: portakal_rig_final:portakal_l_leg_KneeSHJnt
+      parentName: portakal_rig_final:portakal_l_leg_HipSHJnt
+      position: {x: -0.12955414, y: -3.5527136e-17, z: 4.2632563e-16}
+      rotation: {x: 2.1764272e-15, y: -0.000004706028, z: -0.000000014419127, w: 1}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000002}
+    - name: portakal_rig_final:portakal_l_leg_AnkleSHJnt
+      parentName: portakal_rig_final:portakal_l_leg_KneeSHJnt
+      position: {x: -0.12955414, y: 0, z: -1.4210854e-16}
+      rotation: {x: 3.4824917e-15, y: 0.0000023510772, z: 0.000000009146219, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+    - name: portakal_rig_final:portakal_l_leg_BallSHJnt
+      parentName: portakal_rig_final:portakal_l_leg_AnkleSHJnt
+      position: {x: -0.057218477, y: -7.105427e-17, z: 0.044043425}
+      rotation: {x: 0.000000001043394, y: 0.7071068, z: 0.00000000372851, w: 0.7071068}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000004}
+    - name: portakal_rig_final:portakal_l_leg_ToeSHJnt
+      parentName: portakal_rig_final:portakal_l_leg_BallSHJnt
+      position: {x: -0.057137642, y: 7.105427e-17, z: 1.2212453e-17}
+      rotation: {x: -0, y: -0, z: -1.1102229e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_leg_HipSHJnt
+      parentName: portakal_rig_final:portakal_ROOTSHJnt
+      position: {x: 0.034787774, y: 0.00607913, z: 0.0741967}
+      rotation: {x: 0.7071068, y: -0.0000016585357, z: 0.00000166893, w: -0.7071068}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.000001}
+    - name: portakal_rig_final:portakal_r_leg_KneeSHJnt
+      parentName: portakal_rig_final:portakal_r_leg_HipSHJnt
+      position: {x: 0.12955414, y: -7.5495166e-17, z: -1.4210854e-16}
+      rotation: {x: -0, y: -0.000004704571, z: 0.000000015876024, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.000001}
+    - name: portakal_rig_final:portakal_r_leg_AnkleSHJnt
+      parentName: portakal_rig_final:portakal_r_leg_KneeSHJnt
+      position: {x: 0.12955414, y: -3.5527136e-17, z: -1.4210854e-16}
+      rotation: {x: 3.0298345e-14, y: -0.0000023458667, z: 0.000000014356544, w: -1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000011}
+    - name: portakal_rig_final:portakal_r_leg_BallSHJnt
+      parentName: portakal_rig_final:portakal_r_leg_AnkleSHJnt
+      position: {x: 0.057218477, y: 0, z: -0.044043425}
+      rotation: {x: -0.0000000010744322, y: -0.7071068, z: 0.0000000010744373, w: -0.7071068}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000006}
+    - name: portakal_rig_final:portakal_r_leg_ToeSHJnt
+      parentName: portakal_rig_final:portakal_r_leg_BallSHJnt
+      position: {x: 0.057137642, y: -1.4210854e-16, z: -1.6653345e-18}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_face_rig_grp
+      parentName: portakal_rig_final:portakal_all_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_faceUiMove_grp_off
+      parentName: portakal_rig_final:portakal_face_rig_grp
+      position: {x: 0.9860099, y: 0.8270717, z: -0.48030353}
+      rotation: {x: 0.62908375, y: -0.36504972, z: 0.5920915, w: 0.3470158}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_faceUiMove_grp
+      parentName: portakal_rig_final:portakal_faceUiMove_grp_off
+      position: {x: 0.088838935, y: 9.193939e-17, z: -0.1728348}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_faceUi_grp
+      parentName: portakal_rig_final:portakal_faceUiMove_grp
+      position: {x: -0.0988454, y: -1.2039251e-16, z: 0.18590061}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.5, y: 1.5, z: 1.5}
+    - name: portakal_rig_final:portakal_l_brow01_ctrl_grp
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: 0.011103896, y: 0.072714806, z: 1.0606702e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6504998, y: 0.6504998, z: 0.6504998}
+    - name: portakal_rig_final:portakal_l_brow01_ctrl
+      parentName: portakal_rig_final:portakal_l_brow01_ctrl_grp
+      position: {x: -0, y: 0.0074969754, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_outbrow01_ctrl_grp1
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: -0.049999997, y: 0.072714806, z: 1.0606702e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6504998, y: 0.6504998, z: 0.6504998}
+    - name: portakal_rig_final:portakal_l_outbrow01_ctrl
+      parentName: portakal_rig_final:portakal_r_outbrow01_ctrl_grp1
+      position: {x: 3.5527136e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_outbrow01_ctrl_grp
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: 0.050000004, y: 0.072714806, z: 1.0606702e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6504998, y: 0.6504998, z: 0.6504998}
+    - name: portakal_rig_final:portakal_r_outbrow01_ctrl
+      parentName: portakal_rig_final:portakal_r_outbrow01_ctrl_grp
+      position: {x: 1.7763568e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_browMst01_ctrl_grp
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: 0.02, y: 0.092714824, z: 1.0606702e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6504998, y: 0.6504998, z: 0.6504998}
+    - name: portakal_rig_final:portakal_l_browMst01_ctrl
+      parentName: portakal_rig_final:portakal_l_browMst01_ctrl_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_browMst01_ctrl_grp
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: -0.02, y: 0.092714824, z: 1.0606702e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6504998, y: 0.6504998, z: 0.6504998}
+    - name: portakal_rig_final:portakal_r_browMst01_ctrl
+      parentName: portakal_rig_final:portakal_r_browMst01_ctrl_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_brow01_ctrl_grp1
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: -0.011336165, y: 0.072714806, z: 1.0606702e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6504998, y: 0.6504998, z: 0.6504998}
+    - name: portakal_rig_final:portakal_r_brow01_ctrl
+      parentName: portakal_rig_final:portakal_r_brow01_ctrl_grp1
+      position: {x: -0, y: 0.006815206, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_cheekUp01_ctrl_off
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: 0.046659626, y: -0.03382635, z: 1.0606702e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_cheekUp01_ctrl
+      parentName: portakal_rig_final:portakal_r_cheekUp01_ctrl_off
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_cheekUp01_ctrl_off
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: -0.047289524, y: -0.03382635, z: 1.0606702e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_cheekUp01_ctrl
+      parentName: portakal_rig_final:portakal_l_cheekUp01_ctrl_off
+      position: {x: -4.7369517e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_outlip01_ctrl_grp
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: -0.049999997, y: -0.088570565, z: 1.0606702e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_lipcorner01_ctrl
+      parentName: portakal_rig_final:portakal_l_outlip01_ctrl_grp
+      position: {x: -0.00019385261, y: -0.0020196734, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_outlip01_ctrl_grp
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: 0.050000004, y: -0.088570565, z: 1.0606702e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_lipcorner01_ctrl
+      parentName: portakal_rig_final:portakal_r_outlip01_ctrl_grp
+      position: {x: -0.00019385261, y: -0.0020196734, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_m_sync_grp
+      parentName: portakal_rig_final:portakal_faceUi_grp
+      position: {x: -0.07532652, y: -0.027163038, z: 1.0814869e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_m_sync_ctrl
+      parentName: portakal_rig_final:portakal_m_sync_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_geo_grp
+      parentName: portakal_rig_final:portakal_all_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_hair_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_upEyeLig_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_l_loEyeLig_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_loEyeLig_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_r_upEyeLig_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_teeth_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_tongue_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_m_brows_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_skin_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_bs_grp
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakla_r_eye_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakla_l_eye_geo
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:Portakal_hoodie_costume_geo_grp
+      parentName: portakal_rig_final:portakal_geo_grp
+      position: {x: 0.00080783013, y: 0.53684324, z: -0.047129657}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_socks_geo
+      parentName: portakal_rig_final:Portakal_hoodie_costume_geo_grp
+      position: {x: -0.00080783013, y: -0.53684324, z: 0.047129657}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: portakal_rig_final:portakal_hoodie_geo
+      parentName: portakal_rig_final:Portakal_hoodie_costume_geo_grp
+      position: {x: -0.00080783013, y: -0.53684324, z: 0.047129657}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
