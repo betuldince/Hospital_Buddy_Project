@@ -16,32 +16,62 @@ MonoBehaviour:
   m_GuidHigh: 3108996654753079468
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5513607797625478586
-      m_GuidHigh: 5195127508062879918
+      m_GuidLow: 5186798588366477242
+      m_GuidHigh: 13454088434166504337
     m_SerializedTextureGuid:
-      m_GuidLow: 15619879484061298269
-      m_GuidHigh: 2110488088504450568
-    m_Size: {x: 0.1, y: 0.06019523}
+      m_GuidLow: 17236650595143499126
+      m_GuidHigh: 14648733042331004106
+    m_Size: {x: 0.1, y: 0.10656934}
     m_SpecifySize: 1
-    m_Name: blue
+    m_Name: 00_Karakter
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5409585194955023414
-      m_GuidHigh: 288100735018939543
+      m_GuidLow: 5495754914542758303
+      m_GuidHigh: 13357676286382641842
     m_SerializedTextureGuid:
-      m_GuidLow: 13030316096909415928
-      m_GuidHigh: 15587110426107433433
-    m_Size: {x: 0.1, y: 0.052030735}
+      m_GuidLow: 2343134928592852793
+      m_GuidHigh: 7107321249342276890
+    m_Size: {x: 0.1, y: 0.09799453}
     m_SpecifySize: 1
-    m_Name: green
+    m_Name: 01_Dusunceli
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 4952078340333747766
-      m_GuidHigh: 7087246610962785679
+      m_GuidLow: 5198697524661809381
+      m_GuidHigh: 2488084074708476557
     m_SerializedTextureGuid:
-      m_GuidLow: 829813260443050194
-      m_GuidHigh: 4296169966751171385
-    m_Size: {x: 0.1, y: 0.0953451}
+      m_GuidLow: 9251655404351985576
+      m_GuidHigh: 3676569572418211546
+    m_Size: {x: 0.1, y: 0.0959447}
     m_SpecifySize: 1
-    m_Name: girl
+    m_Name: 01_Kapak_Yazi
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5004901557461924378
+      m_GuidHigh: 17456780408386772628
+    m_SerializedTextureGuid:
+      m_GuidLow: 4324779418537823125
+      m_GuidHigh: 16989530696658015352
+    m_Size: {x: 0.1, y: 0.10338983}
+    m_SpecifySize: 1
+    m_Name: 03_Mutsuz
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5436591276444273781
+      m_GuidHigh: 9872606749873296793
+    m_SerializedTextureGuid:
+      m_GuidLow: 6297288307447341555
+      m_GuidHigh: 15891112464334826747
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 04_Saskin
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4719546850656591109
+      m_GuidHigh: 11365531202165195442
+    m_SerializedTextureGuid:
+      m_GuidLow: 10436245724439129679
+      m_GuidHigh: 7449367141033032203
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 05_Korkmus
     m_Texture: {fileID: 0}
